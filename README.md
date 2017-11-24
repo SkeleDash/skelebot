@@ -1,2 +1,0 @@
-# skelebot
-mine tbh
